@@ -6,6 +6,9 @@ class Person
   def name
     @name
   end
+
+  def job=(beyonces_job)
+  end
 end
 
 beyonce = Person.new
