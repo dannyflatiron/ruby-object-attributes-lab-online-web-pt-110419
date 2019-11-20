@@ -2,3 +2,6 @@ class Person
   def name=(persons_name)
   end
 end
+
+beyonce = Person.new
+beyonce.name = "Beyonce"
