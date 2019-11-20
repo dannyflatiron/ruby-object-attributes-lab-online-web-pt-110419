@@ -8,6 +8,7 @@ class Person
   end
 
   def job=(beyonces_job)
+    @job = beyonces_job
   end
 end
 
